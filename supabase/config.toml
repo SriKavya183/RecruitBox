@@ -1,0 +1,4 @@
+project_id = "recruitbox"
+
+[functions.summarize-resume]
+verify_jwt = false
